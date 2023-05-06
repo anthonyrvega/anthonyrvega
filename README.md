@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anthonyrvega
-- Co-Creator of Spyglass -> https://spyglass-website.vercel.app/
+- Spyglass -> https://spyglass-website.vercel.app/
 
 Connect with me: 
 
